@@ -1,3 +1,6 @@
+/**
+ * Wihidum Corporation
+ */
 package event_divider;
 
 
