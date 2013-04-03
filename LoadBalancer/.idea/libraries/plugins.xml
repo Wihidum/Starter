@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../cepnodes/wso2cep-2.1.0/repository/components/plugins" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../cepnodes/wso2cep-2.1.0/repository/components/plugins" recursive="false" />
+  </library>
+</component>

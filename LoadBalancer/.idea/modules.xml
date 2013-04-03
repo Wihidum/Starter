@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventPublisher/EventPublisher.iml" filepath="$PROJECT_DIR$/EventPublisher/EventPublisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventReciver/EventReciver.iml" filepath="$PROJECT_DIR$/EventReciver/EventReciver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoadBalancer.iml" filepath="$PROJECT_DIR$/LoadBalancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1.1.0-wso2v1/siddhi.iml" filepath="$PROJECT_DIR$/../1.1.0-wso2v1/siddhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1.1.0-wso2v1/modules/siddhi-api/siddhi-api.iml" filepath="$PROJECT_DIR$/../1.1.0-wso2v1/modules/siddhi-api/siddhi-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1.1.0-wso2v1/modules/siddhi-core/siddhi-core.iml" filepath="$PROJECT_DIR$/../1.1.0-wso2v1/modules/siddhi-core/siddhi-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1.1.0-wso2v1/modules/siddhi-distribution/siddhi-distribution.iml" filepath="$PROJECT_DIR$/../1.1.0-wso2v1/modules/siddhi-distribution/siddhi-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../1.1.0-wso2v1/modules/siddhi-query/siddhi-query.iml" filepath="$PROJECT_DIR$/../1.1.0-wso2v1/modules/siddhi-query/siddhi-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>
+
