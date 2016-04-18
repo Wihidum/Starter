@@ -4,7 +4,6 @@ public class Node {
 
     private  String hostname;
     private  String port;
-    private String op;
 
     public Node(String hostName, String port){
         this.hostname =hostName;
